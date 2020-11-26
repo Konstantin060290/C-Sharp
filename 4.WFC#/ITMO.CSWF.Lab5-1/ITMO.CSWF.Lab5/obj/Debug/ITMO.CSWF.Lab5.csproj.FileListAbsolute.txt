@@ -1,0 +1,9 @@
+D:\Coding\ITMO\4. WinForms C#\Lab5_ck\ITMO.CSWF.Lab5\ITMO.CSWF.Lab5\bin\Debug\ITMO.CSWF.Lab5.exe.config
+D:\Coding\ITMO\4. WinForms C#\Lab5_ck\ITMO.CSWF.Lab5\ITMO.CSWF.Lab5\bin\Debug\ITMO.CSWF.Lab5.exe
+D:\Coding\ITMO\4. WinForms C#\Lab5_ck\ITMO.CSWF.Lab5\ITMO.CSWF.Lab5\bin\Debug\ITMO.CSWF.Lab5.pdb
+D:\Coding\ITMO\4. WinForms C#\Lab5_ck\ITMO.CSWF.Lab5\ITMO.CSWF.Lab5\obj\Debug\ITMO.CSWF.Lab5.csprojAssemblyReference.cache
+D:\Coding\ITMO\4. WinForms C#\Lab5_ck\ITMO.CSWF.Lab5\ITMO.CSWF.Lab5\obj\Debug\ITMO.CSWF.Lab5.OvalForm.resources
+D:\Coding\ITMO\4. WinForms C#\Lab5_ck\ITMO.CSWF.Lab5\ITMO.CSWF.Lab5\obj\Debug\ITMO.CSWF.Lab5.Properties.Resources.resources
+D:\Coding\ITMO\4. WinForms C#\Lab5_ck\ITMO.CSWF.Lab5\ITMO.CSWF.Lab5\obj\Debug\ITMO.CSWF.Lab5.csproj.GenerateResource.cache
+D:\Coding\ITMO\4. WinForms C#\Lab5_ck\ITMO.CSWF.Lab5\ITMO.CSWF.Lab5\obj\Debug\ITMO.CSWF.Lab5.exe
+D:\Coding\ITMO\4. WinForms C#\Lab5_ck\ITMO.CSWF.Lab5\ITMO.CSWF.Lab5\obj\Debug\ITMO.CSWF.Lab5.pdb
